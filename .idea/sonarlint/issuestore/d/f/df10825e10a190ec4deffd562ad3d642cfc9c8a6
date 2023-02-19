@@ -1,0 +1,28 @@
+
+K
+java:S3740û"/Provide the parametrized type for this generic.(àÖ¦ûüÿÿÿÿ
+K
+java:S3740û"/Provide the parametrized type for this generic.(àÖ¦ûüÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(šÉø¼üÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(šÉø¼üÿÿÿÿ
+G
+java:S1602P",Remove useless curly braces around statement(ñ°€ùÿÿÿÿ
+H
+java:S1602‚",Remove useless curly braces around statement(Ê»ìÙúÿÿÿÿ
+F
+java:S1197ÿ"*Move the array designators [] to the type.(¾´™¡úÿÿÿÿ
+B
+java:S1128"%Remove this unused import 'src.Main'.(£Á‹Ş8ú©êÜØ0
+T
+java:S1128"2Remove this unused import 'src.Utils.CommonUtils'.(ÒìùÜøÿÿÿÿ8û©êÜØ0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ü©êÜØ0
+I
+java:S1068".Remove this unused "emptyLabel" private field.(ºéÍˆúÿÿÿÿ
+k
+java:S1192f"PDefine a constant instead of duplicating this literal "Patient Details" 3 times.(ˆâ’êúÿÿÿÿ
+D
+java:S1604Œ"(Make this anonymous inner class a lambda(¤Ù€Üüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û»¢D

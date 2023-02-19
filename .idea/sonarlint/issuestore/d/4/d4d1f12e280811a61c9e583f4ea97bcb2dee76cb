@@ -1,0 +1,44 @@
+
+F
+java:S3740€"/Provide the parametrized type for this generic.(ÿ¹åü
+F
+java:S3740€"/Provide the parametrized type for this generic.(ÿ¹åü
+F
+java:S3740Š"/Provide the parametrized type for this generic.(Øã¾
+F
+java:S3740Š"/Provide the parametrized type for this generic.(Øã¾
+V	java:S125"<This block of commented-out lines of code should be removed.(ŠàÏÆùÿÿÿÿ
+a	java:S116"MRename this field "T1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿşÍ
+a	java:S116"MRename this field "T2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿşÍ
+5
+java:S1659" Declare "T2" on a separate line.(ÿşÍ
+w
+java:S1450"\Remove the "consultations" field and declare it as a local variable in the relevant methods.( èà´ıÿÿÿÿ
+r
+java:S1450"WRemove the "patients" field and declare it as a local variable in the relevant methods.(»öâÈÿÿÿÿÿ
+Q
+java:S1117I"6Rename "T1" which hides the field declared at line 19.(ü–‡Ûøÿÿÿÿ
+Q
+java:S1117J"6Rename "T2" which hides the field declared at line 19.(¡ûœÖûÿÿÿÿ
+X	java:S125P"<This block of commented-out lines of code should be removed.(ô«ñ 8ö›çÛØ0
+X	java:S125W"<This block of commented-out lines of code should be removed.(ºåÉÌ8ø›çÛØ0
+]	java:S125Y"<This block of commented-out lines of code should be removed.(ñ™îÖúÿÿÿÿ8ø›çÛØ0
+V	java:S125`"<This block of commented-out lines of code should be removed.(Ú¹Áàÿÿÿÿÿ
+F
+java:S1197‡"*Move the array designators [] to the type.(Õóûÿÿÿÿ
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(–Øä8ş›çÛØ0
+W	java:S125•"<This block of commented-out lines of code should be removed.(«¬Éäşÿÿÿÿ
+R	java:S125˜"<This block of commented-out lines of code should be removed.(Óÿ¯Ë
+W	java:S125›"<This block of commented-out lines of code should be removed.(é›º©ÿÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(®˜Èœúÿÿÿÿ
+G
+java:S1068",Remove this unused "patients" private field.(»öâÈÿÿÿÿÿ
+L
+java:S1068"1Remove this unused "consultations" private field.( èà´ıÿÿÿÿ
+k	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü–‡Ûøÿÿÿÿ
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ûœÖûÿÿÿÿ
+f	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÊÊ™
+f	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¸†
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š´§
+?
+java:S1604"(Make this anonymous inner class a lambda(ğÁËî

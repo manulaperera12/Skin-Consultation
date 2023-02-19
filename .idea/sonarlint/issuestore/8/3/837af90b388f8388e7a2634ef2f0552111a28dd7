@@ -1,0 +1,59 @@
+
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(—ŠÈÛ
+\	java:S112“"FDefine and throw a dedicated exception instead of using a generic one.(¶çÈò
+a	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(æ €æüÿÿÿÿ
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(ÅÜ™Ìÿÿÿÿÿ
+\	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(ç³²
+a	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(•æÂ”ûÿÿÿÿ
+a	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(ÅÜ™Ìÿÿÿÿÿ
+\	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(ç³²
+\	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(»µ¾×
+\	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(ÿí©ú
+h	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(ÆÌ¨Âúÿÿÿÿ8”ĞãÜØ0
+h	java:S112Â"FDefine and throw a dedicated exception instead of using a generic one.(ïú ûÿÿÿÿ8”ĞãÜØ0
+h	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(ÀÈ©ğÿÿÿÿÿ8”ĞãÜØ0
+c	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(¢… ş8•ĞãÜØ0
+n
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²©„Œşÿÿÿÿ
+t
+java:S1171!"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+A
+java:S1602K",Remove useless curly braces around statement(ÔÃš
+A
+java:S1602P",Remove useless curly braces around statement(ÔÃš
+A
+java:S1602T",Remove useless curly braces around statement(½õù
+\	java:S899a"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+Q
+java:S2696i"6Make the enclosing method "static" or remove this set.(ö¡µúÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(Úí¨²üÿÿÿÿ
+R
+java:S2696²"6Make the enclosing method "static" or remove this set.(Úí¨²üÿÿÿÿ
+F	java:S108¼")Either remove or fill this block of code.(‘«Øû8¯¾ãÜØ0
+Y
+java:S2696Ö"6Make the enclosing method "static" or remove this set.(Úí¨²üÿÿÿÿ8ÌĞãÜØ0
+Y
+java:S2696â"6Make the enclosing method "static" or remove this set.(Úí¨²üÿÿÿÿ8ÏĞãÜØ0
+Y
+java:S2696ô"6Make the enclosing method "static" or remove this set.(Úí¨²üÿÿÿÿ8ÒĞãÜØ0
+Y
+java:S2696‚"6Make the enclosing method "static" or remove this set.(Úí¨²üÿÿÿÿ8×ĞãÜØ0
+Y
+java:S2696Š"6Make the enclosing method "static" or remove this set.(Úí¨²üÿÿÿÿ8ØĞãÜØ0
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(Úí¨²üÿÿÿÿ8ÙĞãÜØ0
+Y
+java:S2696•"6Make the enclosing method "static" or remove this set.(Úí¨²üÿÿÿÿ8ÚĞãÜØ0
+|	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğåàÏúÿÿÿÿ8ÚĞãÜØ0
+p	java:S115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠŸ‘·
+p	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„öàİ
+K
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8ßîúÜØ0
+P
+java:S11411"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÙÿºşÿÿÿÿ
+d
+java:S2095d"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯
+b
+java:S2095."LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ëòØû

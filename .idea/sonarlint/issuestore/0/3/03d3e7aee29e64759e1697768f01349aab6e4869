@@ -1,0 +1,9 @@
+
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ÍÄ¾Çþÿÿÿÿ
+H
+java:S1144Ñ",Remove this unused private "viewAll" method.(ë½¯¥ÿÿÿÿÿ
+}
+java:S1192–"fDefine a constant instead of duplicating this literal "Operation was cancelled by the user!" 10 times.(×¥÷‰
+w
+java:S1488Ò"`Immediately return this expression instead of assigning it to the temporary variable "showInfo".(ÁùÅ¢
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÙÿºþÿÿÿÿ

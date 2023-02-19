@@ -1,0 +1,12 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ôÖ®¬ùÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¼Öª²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½©¨‹øÿÿÿÿ
+:
+java:S1168"$Return an empty map instead of null.(¥¹ï
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¾ê€§øÿÿÿÿ8Ö¨ğ²Ò0
+@
+java:S1068"*Remove this unused "mapper" private field.(¼Öª²
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êô–ˆ

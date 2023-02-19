@@ -1,0 +1,10 @@
+
+@
+java:S2885"*Make "dateFormatter" an instance variable.(―φ²Ϋ
+?
+java:S5869 "*Remove duplicates in this character class.(θ‘
+?
+java:S5869 "*Remove duplicates in this character class.(θ‘
+a
+java:S5998 "LRefactor this repetition that can lead to a stack overflow for large inputs.(θ‘
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(κτ–
